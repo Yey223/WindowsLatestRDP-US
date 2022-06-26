@@ -1,6 +1,6 @@
 # Windows2022RDP-US
 Windows Server 2022 Github with RDP Access (ngrok US) 
-Repo link: https://github.com/aloksharmakumar77/Windows2019RDP-US
+Repo link: https://github.com/MMD1V1/WindowsLatestRDP-US
 
 Create a free VPS with 2cpu-7gb Ram FREE with Github:
 
